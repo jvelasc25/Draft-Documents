@@ -18,7 +18,7 @@ and device initialization.
 Supported Devices
 =================
 
-- :adi::`AD4080`
+- :adi:`AD4080`
 
 Applications
 ============
